@@ -1,0 +1,1 @@
+class RegisterStep1Model {}
